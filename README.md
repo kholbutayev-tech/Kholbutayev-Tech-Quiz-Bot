@@ -12,9 +12,10 @@ Quiz Bot is a local Telegram English quiz bot designed for communication-focused
 
 > Put these images in the project root, next to this README file.
 
-!\[Smith Bot Screenshot 1](./img1.png)
-
-!\[Smith Bot Screenshot 2](./img2.png)
+<p align="center">
+  <img src="img1.png" alt="" width="220" />
+  <img src="img2.png" alt="" width="220" />
+</p>
 
 \---
 
