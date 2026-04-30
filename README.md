@@ -14,6 +14,7 @@ Quiz Bot is a local Telegram English quiz bot designed for communication-focused
 
 <p align="center">
   <img src="img1.png" alt="" width="220" />
+  <br>
   <img src="img2.png" alt="" width="220" />
 </p>
 
